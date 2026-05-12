@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Rodrigo! 👋
 
-<!--
-**rodrigocode2/rodrigocode2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Ciência da Computação** (UDF).
+- 🐍 Focado em dominar **Python** e a lógica estruturada do **ANSI C**.
+- 🎨 Entusiasta de **UI/UX Design**, criando interfaces funcionais e intuitivas.
+- ⚖️ Atualmente integrando tecnologia com o mundo jurídico e financeiro.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, C.
+- **Design:** Figma (Prototipagem de alta fidelidade).
+- **Outros:** Engenharia de Prompt, Git, Github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Projetos em Destaque
+- **Dashboard de Aprovação:** Ferramenta para auxílio em métricas de estudos.
+- **Automação Financeira:** Projetos focados em Open Finance e relatórios.
+
+---
+📫 Como me encontrar: [rodrigo-n-s@live.com](mailto:rodrigo-n-s@live.com)
