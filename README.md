@@ -4,7 +4,6 @@
 - 🎓 Estudante de **Ciência da Computação** (UDF).
 - 🐍 Focado em dominar **Python** e a lógica estruturada do **ANSI C**.
 - 🎨 Entusiasta de **UI/UX Design**, criando interfaces funcionais e intuitivas.
-- ⚖️ Atualmente integrando tecnologia com o mundo jurídico e financeiro.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, C.
