@@ -1,18 +1,14 @@
-# Olá, eu sou o Rodrigo! 👋
+# Rodrigo Nunes dos Santos 👋
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** (UDF).
-- 🐍 Focado em dominar **Python** e a lógica estruturada do **ANSI C**.
-- 🎨 Entusiasta de **UI/UX Design**, criando interfaces funcionais e intuitivas.
+### Desenvolvedor Python & Estudante de Ciência da Computação
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, C.
-- **Design:** Figma (Prototipagem de alta fidelidade).
-- **Outros:** Engenharia de Prompt, Git, Github.
-
-### 📈 Projetos em Destaque
-- **Dashboard de Aprovação:** Ferramenta para auxílio em métricas de estudos.
-- **Automação Financeira:** Projetos focados em Open Finance e relatórios.
+Estudante de Ciência da Computação (UDF) com foco em desenvolvimento **Python**, arquitetura de software em **ANSI C**, **Modelagem de Banco de Dados (SGBD)**, **HTML** e design de interfaces (**UI/UX**). Experiência no desenvolvimento de ferramentas de produtividade, automação de processos e integração com ecossistemas financeiros.
 
 ---
-📫 Como me encontrar: [rodrigo-n-s@live.com](mailto:rodrigo-n-s@live.com)
+
+### 💻 Stack Tecnológica
+
+* **Linguagens & Web:** Python, C, HTML
+* **Banco de Dados:** Modelagem de Dados, SGBD (SQL)
+* **Design & Prototipagem:** Figma (Wireframing e Protótipos de Alta Fidelidade)
+* **Ferramentas & Metodologias:** Git, GitHub, Engenharia de Prompt
