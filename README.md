@@ -60,10 +60,9 @@ Estudante de Ciência da Computação com foco em **desenvolvimento Backend em P
 
 ## 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Nunes_dos_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-nunes-dos-santos-nunes-2112a5207)
 [![E-mail](https://img.shields.io/badge/E--mail-rodrigo--n--s%40live.com-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:rodrigo-n-s@live.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigocode2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocode2)
-
-> LinkedIn: adicionar o link do perfil público aqui.
 
 ---
 
